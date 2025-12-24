@@ -54,7 +54,7 @@
 
 > ### Run the script
 
-> - `**./analyzer.sh**`
+> - `./analyzer.sh`
 
 <p>
 *Follow the on-screen instructions to select the network interface and scanning options.*
@@ -89,3 +89,4 @@ Do nor use it on networks or systems without explicit permission.
 - **PcxRoot**
 
 - Role: SysAdmin / Pentesting
+
