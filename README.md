@@ -80,8 +80,8 @@ Each file is named using the target IP and timestamp.
 
 # Disclaimer 
 <p>
-This tool is intended **only for educational purposes and authorized environments**.
-Do nor use it on networks or systems without explicit permission.
+This tool is intended *only for educational purposes and authorized environments*.
+Do not use it on networks or systems without explicit permission.
 </p>
 
 # Author
@@ -89,4 +89,5 @@ Do nor use it on networks or systems without explicit permission.
 - **PcxRoot**
 
 - Role: SysAdmin / Pentesting
+
 
