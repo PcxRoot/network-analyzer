@@ -42,7 +42,7 @@
 
 > ### Clone the repository
 
-> - `git clone` https://github.com/PcxRoot/analyzer.git
+> - `git clone https://github.com/PcxRoot/analyzer.git`
 
 > ### Give permissions
 
@@ -89,5 +89,6 @@ Do not use it on networks or systems without explicit permission.
 - **PcxRoot**
 
 - Role: SysAdmin / Pentesting
+
 
 
